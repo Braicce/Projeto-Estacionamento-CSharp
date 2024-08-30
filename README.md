@@ -40,7 +40,7 @@ Sistemas Operacionais que domino:
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-##Escopo do Projeto
+## Escopo do Projeto
 
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
